@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finalexam/static/css/main.48c3289c.css",
+    "main.js": "/finalexam/static/js/main.16f2c048.js",
+    "index.html": "/finalexam/index.html",
+    "main.48c3289c.css.map": "/finalexam/static/css/main.48c3289c.css.map",
+    "main.16f2c048.js.map": "/finalexam/static/js/main.16f2c048.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c3289c.css",
+    "static/js/main.16f2c048.js"
+  ]
+}
